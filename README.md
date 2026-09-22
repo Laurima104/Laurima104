@@ -11,7 +11,7 @@ Desenvolvendo projetos independentes em Unity/C#<br>
 Estudando desenvolvimento de software e game development<br>
 
 ## Tecnologias
-`C#` `Unity` `Java` `C` `Git` `GitHub`
+`C#` `Unity` `Java` `C` `Postgre` `GitHub`
 
 <!--
 **Laurima104/Laurima104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
