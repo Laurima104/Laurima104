@@ -1,4 +1,4 @@
-# Ola, meu nome é Guilherme "Laura" Ribeiro Maciel
+# Ola, meu nome é Laura Ribeiro Maciel
 
 🎮 Estudante de Engenharia de Software interessado em Game Development<br>
 💻 Desenvolvendo projetos com C#, Java, C e Unity<br>
